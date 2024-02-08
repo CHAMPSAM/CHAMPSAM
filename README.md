@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somdipto Majumdar</h1>
-<h3 align="center">I am a pre-final year student pursuing B.Tech in Electronics and Communication Engineering.My proficiency in programming languages such as C, Python, and Java, coupled with expertise in software tools like MATLAB and LTSpice, enables me to tackle complex problems with precision. I have a passion for digital image processing and is quite familiar with tools like Cadence Virtuoso and OrCAD Capture CIS. Furthermore, my ability to effectively communicate complex ideas is demonstrated by my experience in blogging and my proficiency in Microsoft PowerPoint and Excel.</h3>
+<h3 align="left">I am a pre-final year student pursuing B.Tech in Electronics and Communication Engineering.My proficiency in programming languages such as C, Python, and Java, coupled with expertise in software tools like MATLAB and LTSpice, enables me to tackle complex problems with precision. I have a passion for digital image processing and is quite familiar with tools like Cadence Virtuoso and OrCAD Capture CIS. Furthermore, my ability to effectively communicate complex ideas is demonstrated by my experience in blogging and my proficiency in Microsoft PowerPoint and Excel.</h3>
 
 - 🔭 I’m currently working on **Data analysis Projects**
 
