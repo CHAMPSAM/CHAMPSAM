@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tableau,C++,Python**
 
-- 📝 I regularly write articles on [https://medium.com/@astrolover1234](https://medium.com/@astrolover1234)
+- 📝 I write articles(rarely) on [https://medium.com/@astrolover1234](https://medium.com/@astrolover1234)
 
 - 📫 How to reach me **astrolover1234@gmail.com**
 
